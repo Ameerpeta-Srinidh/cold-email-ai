@@ -1,0 +1,129 @@
+{
+  "name": "Srinidh Ameerpeta",
+  "email": "srinidhameerpeta1506@gmail.com",
+  "phone": "+91 7569887130",
+  "location": "Hyderabad, Telangana",
+  "linkedin": "",
+  "portfolio": "",
+  "github": "",
+  "resume_path": "c:\\Srinidh\\ai_agent\\cold-email-ai\\data\\resume.pdf",
+  "education": {
+    "degree": "Integrated M.Tech in Computer Science",
+    "university": "University of Hyderabad",
+    "graduation_year": "2028",
+    "gpa": "8.07"
+  },
+  "target_roles": [
+    "Machine Learning Intern",
+    "Software Engineering Intern",
+    "Backend Engineering Intern",
+    "Full Stack Intern"
+  ],
+  "skills": {
+    "languages": [
+      "Python",
+      "C++",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "C"
+    ],
+    "frameworks": [
+      "PyTorch",
+      "PyTorch Geometric",
+      "Stable-Baselines3",
+      "Scikit-learn",
+      "LangChain",
+      "FAISS",
+      "Qdrant",
+      "YOLOv8",
+      "LSTM",
+      "FastAPI",
+      "Node.js",
+      "Express.js",
+      "React",
+      "Vite",
+      "Streamlit",
+      "Apache Kafka"
+    ],
+    "tools": [
+      "Docker",
+      "Docker Compose",
+      "Git",
+      "Nginx",
+      "Postman",
+      "Microservices",
+      "REST APIs"
+    ],
+    "databases": [
+      "MongoDB",
+      "MySQL",
+      "Neo4j",
+      "InfluxDB"
+    ],
+    "domains": [
+      "Machine Learning",
+      "Reinforcement Learning (RL)",
+      "Backend Architecture",
+      "System Design",
+      "Digital Twins",
+      "Graph Neural Networks (GNN)"
+    ]
+  },
+  "projects": [
+    {
+      "name": "HydroTwin OS",
+      "description": "Designed a multi-modal anomaly detection platform fusing sensor streams via a late-fusion transformer, and implemented an SAC RL agent for continuous optimisation of data centre cooling.",
+      "tech": [
+        "PyTorch",
+        "Stable-Baselines3",
+        "PyG",
+        "Neo4j",
+        "LangChain",
+        "Kafka",
+        "FastAPI",
+        "Streamlit"
+      ],
+      "url": ""
+    },
+    {
+      "name": "StructOptima",
+      "description": "Engineered a 51-module structural analysis engine with a custom 2D FEA solver and multi-stage optimisation pipeline to completely automate building designs from raw DXF files.",
+      "tech": [
+        "Python",
+        "NumPy",
+        "Streamlit",
+        "Plotly",
+        "ezdxf",
+        "pytest"
+      ],
+      "url": ""
+    },
+    {
+      "name": "GreenScore",
+      "description": "Architected a full-stack Docker Compose app using local Llama 3 to parse free-text sustainability activities into structured Scope 1-3 carbon emission records.",
+      "tech": [
+        "React",
+        "Node.js",
+        "FastAPI",
+        "Python",
+        "Docker",
+        "MongoDB",
+        "Ollama"
+      ],
+      "url": ""
+    },
+    {
+      "name": "UoH Alumni Network Scraper",
+      "description": "Reverse-engineered a dynamic AngularJS portal, executing headless extraction via Puppeteer and streaming real-time scraping progress via Server-Sent Events.",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "Puppeteer",
+        "Server-Sent Events"
+      ],
+      "url": ""
+    }
+  ],
+  "resume_summary": "3rd-year Integrated M.Tech CS student at University of Hyderabad with hands-on experience building and deploying production-grade ML systems (GNN, SAC RL, LSTM) end-to-end. Strong foundation in distributed backend systems, event-driven architecture (Kafka), containerisation, and scalable full-stack applications."
+}

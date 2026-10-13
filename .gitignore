@@ -1,0 +1,6 @@
+node_modules/
+.env*
+!.env.example
+database.sqlite
+data/screenshots/
+data/discovered_leads.csv

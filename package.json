@@ -1,0 +1,28 @@
+{
+  "name": "cold-email-ai",
+  "version": "2.0.0",
+  "description": "Autonomous internship outreach agent — discovers companies, finds hiring contacts, generates personalized cold emails, and auto-applies on portals.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "import:leads": "node scripts/importLeads.js",
+    "discover:leads": "node scripts/discoverLeads.js",
+    "generate:emails": "node scripts/generateEmails.js",
+    "approve:send": "node scripts/approveAndSend.js",
+    "auto:apply": "node scripts/autoApply.js",
+    "pipeline": "node scripts/fullPipeline.js",
+    "status": "node scripts/status.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^8.0.4",
+    "pdfjs-dist": "^5.6.205",
+    "playwright": "^1.49.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  }
+}
